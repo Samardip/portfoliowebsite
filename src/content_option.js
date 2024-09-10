@@ -1,40 +1,44 @@
 const logotext = "Samardip";
 const meta = {
     title: "Samardip Mandal",
-    description: "I am a Frontend Developer John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "Experienced Frontend Developer | ReactJs + Redux |",
 };
 
 const introdata = {
     title: "I’m Samardip Mandal",
     animated: {
-        first: "1.2+ years of relevent experience",
+        first: "2 years of relevent experience",
         second: "I am a Frontend Developer",
         third: "HTML, CSS, Javascript, ReactJS",
     },
-    description: "Immediate Joiner | I have 1.2+ years of relevent experience working as an Frontend developer using Html, CSS, Tailwind CSS,Javascript, Reactjs, Redux . I am open to learning and working on new technology and keep on improving.",
+    description: "Immediate Joiner | I have 2 years of relevent experience working as an Frontend developer using Html, CSS, Tailwind CSS,Javascript, Reactjs, Redux . I am open to learning and working on new technology and keep on improving.",
     your_img_url: "/images/profileimg.jpg",
 };
 
 const dataabout = {
-    title: "Fronten Developer",
-    aboutme: "I am a 2022 B. Tech graduate from RCC Institute of information Technology specialised in Computer Science Engineering. I have intermediate level skills of C++,JAVA, HTML, CSS,Tailwind CSS, javaScript, ReactJS, Redux. I have 7 months of work experience working as an Frontend Developer Intern and currently 8 months of relevent professional experience in ReactJS + Redux working for startup. I am a competitive coder with 4-star rating on CodeChef and 1154 max rating on codeforces.I am open to learning and working on new technologies along with gaining knowledge and experience.",
+    title: "Frontend Developer",
+    aboutme: `I am a 2022 B.Tech graduate from RCC Institute of Information Technology, specializing in Computer Science Engineering. As a Frontend Developer, I have relevant professional experience in ReactJS and Redux, which has allowed me to develop a strong foundation in frontend development. I possess intermediate-level skills in C++, Java, HTML, CSS, Tailwind CSS, JavaScript, ReactJS, and Redux.
+
+I have 7 months of internship experience as a Frontend Developer, where I honed my skills and contributed to various projects. Currently, I have 2 years of professional experience and am working for a startup, applying my expertise in ReactJS and JavaScript to create dynamic and responsive web applications.
+
+In addition to my professional experience, I am a competitive coder with a 4-star rating on CodeChef and a maximum rating of 1154 on Codeforces. I am passionate about learning and exploring new technologies to continuously enhance my knowledge and capabilities.`,
 };
 const worktimeline = [
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "YAdfi",
-    //     date: "2020",
-    // },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "Jamalya",
-    //     date: "2019",
-    // },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "ALquds",
-    //     date: "2019",
-    // },
+    {
+        jobtitle: "Designer of week",
+        where: "YAdfi",
+        date: "2020",
+    },
+    {
+        jobtitle: "Designer of week",
+        where: "Jamalya",
+        date: "2019",
+    },
+    {
+        jobtitle: "Designer of week",
+        where: "ALquds",
+        date: "2019",
+    },
 ];
 
 const skills = [
