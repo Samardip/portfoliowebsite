@@ -25,19 +25,19 @@ In addition to my professional experience, I am a competitive coder with a 4-sta
 };
 const worktimeline = [
     {
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Software Developer | Global IDs",
+        where: "06/2023",
+        date: "Present",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Associate Software Engineer | Tale Wallet (Formally NFTVerse)",
+        where: "09/2022",
+        date: "04/2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Frontend Developer",
+        where: "01/2022",
+        date: "03/2022",
     },
 ];
 
