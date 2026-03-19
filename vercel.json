@@ -1,5 +1,4 @@
 {
-  "buildCommand": "cd portfoliowebsite && npm install && npm run build",
-  "outputDirectory": "portfoliowebsite/build",
-  "installCommand": "cd portfoliowebsite && npm install"
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "build"
 }
